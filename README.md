@@ -1,6 +1,6 @@
 # Inventory-system_Array-version
 
-Thid program implements an inventory system which contains three types of items:
+This program implements an inventory system that contains three types of items:
 
   fruits that are purchased from an orchard for resale.
   vegetables that are purchased from a farm for resale.
